@@ -253,6 +253,10 @@ p{
     gap: 32px;
     justify-content: center;
     align-items: center;
+    margin-bottom: calc(var(--space-500) * 4 + var(--space-025));
+  }
+  .card-header{
+    margin-top: 102px;
   }
   .middle-container{
     flex-direction: column;
@@ -263,13 +267,4 @@ p{
   .item-1, .item-3{
     margin-bottom: 0;
   }
-
-    
-
 }
-
-
-
-
-
-
