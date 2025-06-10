@@ -93,6 +93,7 @@ body {
   justify-content: center;
   align-items: center;
   /* height: 100vh; */
+  background-color: #FAFAFA;
 }
 h1, h2, h3, p, img {
   margin: 0;
@@ -163,6 +164,7 @@ p{
     padding: var(--space-400);
     position: relative;
     overflow: hidden;
+    color: var(--c-white);
 }
 .item::before{
   content: "";
