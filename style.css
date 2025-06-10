@@ -248,6 +248,9 @@ p{
 
 /* DESKTOP --> 1200px  */
 @media (min-width: 75em) {
+  .body{
+    height: 1029px
+  }
    .container{
     width: 1114px;
     display: flex;
